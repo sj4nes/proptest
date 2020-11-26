@@ -1,5 +1,5 @@
 [book]
-authors = ["Jason Lingle", "Mazdak Farrokhzad"]
+authors = ["Jason Lingle", "Mazdak Farrokhzad", "Simon Janes"]
 multilingual = false
 src = "src"
 title = "Proptest"

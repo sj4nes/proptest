@@ -30,3 +30,6 @@
   - [Getting started](proptest-derive/getting-started.md)
   - [Modifier reference](proptest-derive/modifiers.md)
   - [Error index](proptest-derive/errors.md)
+
+- [Recipes](recipes/index.md)
+  - [Adding proptest to your project](recipes/adding-to-project.md)
