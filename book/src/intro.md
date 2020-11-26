@@ -1,3 +1,8 @@
+# NOTICE
+
+> This is a personal fork of AltSysrq's proptest. Changes will mostly be
+> notes to myself or minor enhancements.
+
 # Introduction
 
 Proptest is a property testing framework (i.e., the QuickCheck family)
